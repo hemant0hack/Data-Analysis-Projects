@@ -14,7 +14,6 @@ Complete a comprehensive analysis of Netflix movies and TV shows data, including
 - [ ] Standardize data formats (e.g., date_added to datetime)
 - [ ] Clean and standardize categorical columns (e.g., listed_in genres)
 - [ ] Handle outliers in numerical columns (e.g., release_year)
-
 ## Exploratory Data Analysis (EDA)
 - [ ] Analyze distribution of content types (Movies vs TV Shows)
 - [ ] Examine release year trends
